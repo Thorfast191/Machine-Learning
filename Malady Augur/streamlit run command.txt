@@ -1,0 +1,1 @@
+streamlit run "C:\Users\User\Desktop\Machine Learning\Malady Augur\Malady Augur.py"
