@@ -1,0 +1,1 @@
+In this code i predict the crypto price and also forcasting future 30 days price combining multiple crypto coin data set with XGBoost algorithm, which gave me the lowest MSE (Mean Squared Error). Lower mse means better prediction.
